@@ -1,1 +1,1 @@
-My first readme
+Changed content for the collaboration project
